@@ -1,0 +1,18 @@
+2025-04-25 23:06:54,125 - INFO - Páciens monitorozás elindult...
+2025-04-25 23:06:54,151 - ERROR - Hiba történt: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Fri, 25 Apr 2025 21:06:54 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"hospital\" not found"}
+
+2025-04-25 23:09:10,725 - INFO - Páciens monitorozás elindult...
+2025-04-25 23:09:10,740 - ERROR - Hiba történt: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Fri, 25 Apr 2025 21:09:10 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"hospital\" not found"}
+
+2025-04-25 23:11:15,600 - INFO - Páciens monitorozás elindult...
+2025-04-25 23:11:15,629 - ERROR - Hiba történt: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Fri, 25 Apr 2025 21:11:15 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"hospital\" not found"}
+
