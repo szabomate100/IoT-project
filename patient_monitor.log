@@ -16,3 +16,217 @@ Reason: Not Found
 HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Fri, 25 Apr 2025 21:11:15 GMT', 'Content-Length': '62'})
 HTTP response body: {"code":"not found","message":"bucket \"hospital\" not found"}
 
+2025-05-01 11:45:25,784 - INFO - Páciens monitorozás elindult...
+2025-05-01 11:45:25,858 - ERROR - Hiba történt: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 09:45:25 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"hospital\" not found"}
+
+2025-05-01 11:53:31,747 - INFO - Páciens monitorozás elindult...
+2025-05-01 11:53:31,757 - ERROR - Hiba történt: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 09:53:31 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"hospital\" not found"}
+
+2025-05-01 11:58:15,554 - INFO - Páciens monitorozás elindult...
+2025-05-01 11:58:15,574 - ERROR - Hiba történt: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 09:58:15 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"hospital\" not found"}
+
+2025-05-01 15:05:09,108 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:05:09 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:05:09,982 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:05:09 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:05:11,042 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:05:11 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:05:12,041 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:05:12 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:06:06,144 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:06:06 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:06:07,126 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:06:07 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:06:08,147 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:06:08 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:06:09,157 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:06:09 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:06:15,205 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:06:15 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:06:16,226 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:06:16 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:06:17,235 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:06:17 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:06:18,248 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:06:18 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:06:19,247 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:06:19 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:06:25,306 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:06:25 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:06:26,315 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:06:26 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:06:27,337 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:06:27 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:06:28,335 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:06:28 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:06:29,347 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:06:29 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:06:35,417 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:06:35 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:06:36,424 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:06:36 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:06:37,435 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:06:37 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:06:38,437 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:06:38 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:06:39,445 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:06:39 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:06:45,498 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:06:45 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:06:46,505 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:06:46 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:06:47,504 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:06:47 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:06:48,524 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:06:48 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:06:49,533 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:06:49 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:06:55,624 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:06:55 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:06:56,633 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:06:56 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:06:57,654 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:06:57 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:22:24,033 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:22:24 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:22:25,078 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:22:25 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:22:26,077 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:22:26 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:22:27,087 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:22:27 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:22:33,147 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:22:33 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:22:34,160 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:22:34 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:22:35,176 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:22:35 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:22:36,190 - ERROR - The batch item wasn't processed successfully because: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json; charset=utf-8', 'X-Influxdb-Build': 'OSS', 'X-Influxdb-Version': 'v2.7.11', 'X-Platform-Error-Code': 'not found', 'Date': 'Thu, 01 May 2025 13:22:36 GMT', 'Content-Length': '62'})
+HTTP response body: {"code":"not found","message":"bucket \"patients\" not found"}
+
+2025-05-01 15:25:29,765 - ERROR - The batch item wasn't processed successfully because: cannot schedule new futures after shutdown
