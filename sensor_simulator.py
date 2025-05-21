@@ -6,10 +6,10 @@ from influxdb_client import InfluxDBClient, Point, WritePrecision
 from influxdb_client.client.write_api import SYNCHRONOUS
 
 
-INFLUXDB_URL = os.getenv("INFLUXDB_URL", "http://localhost:8086") # Pl.: "http://localhost:8086" vagy a felhős URL
-INFLUXDB_TOKEN = os.getenv("INFLUXDB_TOKEN", "mytoken")      # Cseréld le a saját InfluxDB API Tokenedre
-INFLUXDB_ORG = os.getenv("INFLUXDB_ORG", "myorg")          # Cseréld le a saját InfluxDB Organization nevedre/ID-re
-INFLUXDB_BUCKET = os.getenv("INFLUXDB_BUCKET", "patients") # Az InfluxDB Bucket neve, ahova írni szeretnél
+INFLUXDB_URL = os.getenv("INFLUXDB_URL", "http://localhost:8086")
+INFLUXDB_TOKEN = os.getenv("INFLUXDB_TOKEN", "mytoken")
+INFLUXDB_ORG = os.getenv("INFLUXDB_ORG", "myorg")
+INFLUXDB_BUCKET = os.getenv("INFLUXDB_BUCKET", "patients")
 
 SIMULATION_INTERVAL_SECONDS = 5
 
